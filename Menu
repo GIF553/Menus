@@ -17,4 +17,12 @@
 <externallink>https://0.0.0</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR lightgrey]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/S9ebkgd.jpg</thumbnail>
+<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Os melhores Filmes do Cinema![/COLOR]</info>
+<externallink>https://0.0.0</externallink>
+</channel>
+
 </channels>
