@@ -10,68 +10,30 @@
 </channel>
 
 <channel>
-<name>[B][COLOR orange]INSTALE O F4MTESTER E USE APP 1.1.1.1 Warp+ Cloudflare![/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]ATENÇÃO ATIVE A FUNÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! ATIVANDO A FUNÇÃO PERGUNTAR VOCÊ TERA 3 PLAYERS PARA SEREM USADOS![/COLOR] [B][COLOR orange]INSTALE O F4MTESTER E USE APP 1.1.1.1 Warp+ Cloudflare![/COLOR][/B]</info>
-<externallink>http://</externallink>
+<name>[B][COLOR lightgrey]TV[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]OS MELHORES CANAIS DE TV DE FILMES SÉRIES E ESPORTES![/COLOR]</info>
+<externallink>https://bit.ly/3uIBNWT</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 1[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
-<externallink>http://4tv.site:2082/get.php?username=Junior987&password=88665ad98&type=m3u_plus&output=m3u8</externallink>
+<name>[B][COLOR lightgrey]SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]AS MELHORES SÉRIES DO STREAMING E DA TV![/COLOR]</info>
+<externallink>https://###</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 2[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
-<externallink>http://touroboxt7.spsrv.fun/get.php?username=69754977201001&password=2754123426&type=m3u_plus&output=m3u8</externallink>
+<name>[B][COLOR lightgrey]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
+<externallink>https://###</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR white]SERVIDOR 3[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
-<externallink>http://5ce.co/get.php?username=Caqueen&password=Minhacasa&type=m3u_plus</externallink>
-</channel>
 
-<channel>
-<name>[B][COLOR white]SERVIDOR 4[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 4[/COLOR]</info>
-<externallink>http://assistaiptvplay.com/get.php?username=4791358506&password=4791358&type=m3u_plus&output=m3u8</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 5[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 5[/COLOR]</info>
-<externallink>http://assistaiptvplay.com/get.php?username=9291361006&password=ksnZEuaRvE&type=m3u_plus&output=m3u8</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 6[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 6[/COLOR]</info>
-<externallink>http://dnsbr.xyz:80/get.php?username=df2kdbwb&password=c5o942eb&type=m3u_plus&output=m3u8</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 7[/COLOR][COLOR springgreen][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 7[/COLOR]</info>
-<externallink>http://assistaiptvplay.com/get.php?username=Edimilson123&password=Edimilson123&type=m3u_plus&output=m3u8</externallink>
-</channel>
 
 
 </channels>
