@@ -2,7 +2,7 @@
 <channels>
   
 <channel>
-<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR springgreen]GIF PEG[/COLOR] [B][COLOR orangered]TV[/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
+<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR springgreen] ADD-ON [/COLOR] [B][COLOR orangered]DESCONTINUADO[/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
 <fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
 <info>[COLOR white]*[COLOR blue]ATIVO POR TEMPO INDETERMINADO![/COLOR]</info>
@@ -10,28 +10,13 @@
 </channel>
 
 <channel>
-<name>[B][COLOR springgreen]TV[/COLOR][/B]</name>
+<name>[B][COLOR springgreen]TV AO VIVO - USE ATÉ ACABAR[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
 <fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
 <info>[COLOR white]*[COLOR blue]OS MELHORES CANAIS DE TV DE FILMES SÉRIES E ESPORTES![/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Todos.xml</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR springgreen]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
-<info>[COLOR white]*[COLOR blue]AS MELHORES SÉRIES DO STREAMING E DA TV![/COLOR]</info>
-<externallink>https://bit.ly/3SR06LV</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR springgreen]FILMES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
-<info>[COLOR white]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
-<externallink>https://bit.ly/3uFxGeT</externallink>
-</channel>
 
 
 
