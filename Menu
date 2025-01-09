@@ -18,6 +18,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR springgreen]RÁDIO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<info>[COLOR white]*[COLOR white]TESTE DE RÁDIO[/COLOR]</info>
+<externallink>http://uk6freenew.listen2myradio.com:11794/;?type=http&nocache=5</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR springgreen]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
 <fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
