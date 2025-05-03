@@ -2,17 +2,17 @@
 <channels>
   
 <channel>
-<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR springgreen] GIF PEG [/COLOR] [B][COLOR orangered]TV[/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR lima] GIF PEG [/COLOR] [B][COLOR orangered]TV[/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
 <info>[COLOR white]*[COLOR white]IREI ATUALIZAR QUANDO FOR POSSÍVEL![/COLOR]</info>
 <externallink>https://lib.bz</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR springgreen]TV[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<name>[B][COLOR lima]TV AO VIVO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
 <info>[COLOR white]*[COLOR white]OS MELHORES CANAIS DE TV DE FILMES SÉRIES E ESPORTES![/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Todos.xml</externallink>
 </channel>
@@ -20,17 +20,17 @@
 
 
 <channel>
-<name>[B][COLOR springgreen]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<name>[B][COLOR lima]SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
 <info>[COLOR white]*[COLOR white]AS MELHORES SÉRIES DO STREAMING E DA TV![/COLOR]</info>
 <externallink>https://bit.ly/4bzq8d2</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR springgreen]FILMES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://i.imgur.com/WLIuKre.jpg</fanart>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
 <info>[COLOR white]*[COLOR white]OS MELHORES FILMES DO CINEMA E DO STREAMING![/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/MV/main/TODOS</externallink>
 </channel>
