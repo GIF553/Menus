@@ -2,31 +2,37 @@
 <channels>
   
 <channel>
-<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR lime]BAIXE A ATUALIZAÇÃO DO ADDON![/COLOR] [B][COLOR lime][/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
+<name>[B][COLOR white]|||||||[/COLOR][/B][B][COLOR lime] GIF PEG [/COLOR] [B][COLOR lime]TV[/COLOR][COLOR white]|||||||[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
 <fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
-<info>[COLOR white]*[COLOR white]Nova atualização do addon GIF PEG com uma nova hospedagem! o link é o mesmo baixem o ZIP do addon pelo seu navegador de internet do seu dispositivo! o link está encurtado pequeno para facilitar! digite no navegador respeitando letras maiúsculas e minúsculas e instale no Kodi a partir de um arquivo ZIP!
-Remova a versão que já está instalada antes!
-
-Queria agradecer o Felipe Moura do FLIXBOX na ajuda do porte! obrigado mesmo![/COLOR]</info>
+<info>[COLOR white]*[COLOR white]IREI ATUALIZAR QUANDO FOR POSSÍVEL![/COLOR]</info>
 <externallink>https://lib.bz</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]LINK PARA DOWNLOAD-->[/COLOR][COLOR orangered]https://bit.ly/3GzMTUp[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3GzMTUp</thumbnail>
+<name>[B][COLOR lime]GIF PEG [/COLOR][COLOR orangered]TV[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
 <fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
-<info>[COLOR white]*[COLOR white]Nova atualização do addon GIF PEG com uma nova hospedagem! o link é o mesmo baixem o ZIP do addon pelo seu navegador de internet do seu dispositivo! o link está encurtado pequeno para facilitar! digite no navegador respeitando letras maiúsculas e minúsculas e instale no Kodi a partir de um arquivo ZIP!
-Remova a versão que já está instalada antes!
-
-Queria agradecer o Felipe Moura do FLIXBOX na ajuda do porte! obrigado mesmo![/COLOR]</info>
-<externallink>HTTP</externallink>
+<info>[COLOR white]*[COLOR white]OS MELHORES CANAIS DE TV DE FILMES SÉRIES E ESPORTES![/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/refs/heads/main/Todoss.xml</externallink>
 </channel>
 
 
 
+<channel>
+<name>[B][COLOR lime]GIF PEG [/COLOR][COLOR orangered]SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
+<info>[COLOR white]*[COLOR white]AS MELHORES SÉRIES DO STREAMING E DA TV![/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/MV/refs/heads/main/SR%20SERVIDOR1</externallink>
+</channel>
 
-
-
+<channel>
+<name>[B][COLOR lime]GIF PEG [/COLOR][COLOR orangered]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Z4ux8Ez.jpeg</thumbnail>
+<fanart>https://i.imgur.com/Z4ux8Ez.jpeg</fanart>
+<info>[COLOR white]*[COLOR white]OS MELHORES FILMES DO CINEMA E DO STREAMING![/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/MV/refs/heads/main/TODOS</externallink>
+</channel>
 
 </channels>
